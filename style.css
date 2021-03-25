@@ -1,12 +1,10 @@
-/* CSS files add styling rules to your content */
+* CSS files add styling rules to your content */
 
 body {
   font-family: Verdana, sans-serif;
   margin: 2em;
   background-color: #AEC4EB;
   color: black;
-  justify-content: center;
-  align-items: center;
 }
 
 div {
@@ -16,9 +14,6 @@ div {
 }
 
 h1 {
-  diplay: flex;
-  justify-content: center;
-  align-items: center;
   font-family: Georgia, serif;
   font-style: italic;
   color: #373fff;
