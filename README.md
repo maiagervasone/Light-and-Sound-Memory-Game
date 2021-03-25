@@ -7,8 +7,9 @@ Submitted by: **Maia Gervasone**
 Time spent: **2.5** hours spent in total
 
 Link to project:
-Live site: https://planet-cultured-beak.glitch.me
-Code: https://glitch.com/edit/#!/planet-cultured-beak
+
+**Live site:** https://planet-cultured-beak.glitch.me
+**Code:** https://glitch.com/edit/#!/planet-cultured-beak
 
 ## Required Functionality
 
