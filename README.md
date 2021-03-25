@@ -65,7 +65,7 @@ Rather than questions, I am more so fascinated in finding out what more I could 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
-If I had more time, I would do as I stated in question 3. I would like to implement affects so that when the player clicked a button, it might shrink or expand. Additionally, I would have liked to include a visible counter so that the player knows how many rounds they have completed and how many more they still have to finish. If I wanted to make this game even harder, I could maybe implement a "bonus round" where only the sound cues are played and the player has to repeat back the pattern without any visual cues (such as the changing color of the buttons).
+If I had more time, I would do as I stated in question 3. I would like to implement affects so that when the player clicked a button, it might shrink or expand. Additionally, I would have liked to include a visible counter so that the player knows how many rounds they have completed and how many more they still have to finish. If I wanted to make this game even harder, I could maybe implement a "bonus round" where only the sound cues are played and the player has to repeat back the pattern without any visual cues (such as the changing color of the buttons). Another thing that I would love to implement would be a "Game Score", and the quicker the player selects the correct button, the more points they get for the Game Score.
 
 
 
